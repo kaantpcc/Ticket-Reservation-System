@@ -18,28 +18,35 @@
 
 - In main page's first section you must enter admin's username and password. Admin's username and password are writed automaticly.
 
-![mainPage](https://github.com/kaantpcc/Ticket-Reservation-System/assets/118486891/b5d9130b-76cc-49cc-8458-ed1629afa4f5)
+<img width="400" alt="mainPage" src="https://github.com/NisaAydin/Ticket-Reservation-System/assets/144823992/89f5b6b0-7cbd-46c8-a17a-2f6f79d85bc2">
+
 
 - In admin page you can add firms and delete firms for customers.
+<img width="501" alt="admin panel" src="https://github.com/NisaAydin/Ticket-Reservation-System/assets/144823992/322cc069-1c45-4cef-b590-49ea09c54900">
 
-![Ekran görüntüsü 2024-03-19 181742](https://github.com/kaantpcc/Ticket-Reservation-System/assets/118486891/6076da05-a3e2-4962-9efb-7843fccc9585)
 
 - In firm page you can enter any firms page with firms username and password. Firms password are 123.
 
-![firmPanel](https://github.com/kaantpcc/Ticket-Reservation-System/assets/118486891/32037b60-d041-449e-ab72-1811f5bae82e)
+<img width="426" alt="firma girişi" src="https://github.com/NisaAydin/Ticket-Reservation-System/assets/144823992/31bf59de-f639-4443-9ab1-57bc29e3e67b">
+
 
 - In firm page you can add vehicles and trips for firms.
 
-![image](https://github.com/kaantpcc/Ticket-Reservation-System/assets/118486891/9d106528-8d5e-47ba-9cbc-faac5baee38c)
+<img width="632" alt="firma paneli" src="https://github.com/NisaAydin/Ticket-Reservation-System/assets/144823992/8c16a749-e65f-46fb-ba62-497a028c1911">
 
+<div>
 - In search ticket page you can search tickets for yourself. You can choose yourself a seat.
+<img width="490" alt="bilet seçim paneli" src="https://github.com/NisaAydin/Ticket-Reservation-System/assets/144823992/deef643c-a703-4775-b4ef-5f07ade2821b">
+<img width="686" alt="bilet sorgula paneli" src="https://github.com/NisaAydin/Ticket-Reservation-System/assets/144823992/9584f400-0ab7-4750-8c48-6ac18fbcd560">
+</div>
 
-![searchTicket](https://github.com/kaantpcc/Ticket-Reservation-System/assets/118486891/6e9731a1-8bfd-414f-966c-a7a791fd2214)
+- The green seats indicate available spots. You can select any of the unoccupied seats of your choice.
+
+<img width="760" alt="koltuk seçim paneli" src="https://github.com/NisaAydin/Ticket-Reservation-System/assets/144823992/0ff834f2-003e-422c-88d6-e4ac16f7a14b">
 
 - In my tickets page you can see your tickets.
 
-![myTickets](https://github.com/kaantpcc/Ticket-Reservation-System/assets/118486891/59671187-a441-4cae-868f-33e5c2cc073a)
-
+<img width="560" alt="rezervasyonlarım" src="https://github.com/NisaAydin/Ticket-Reservation-System/assets/144823992/ade50f55-dfc0-4a96-8ff3-b5356d79891d">
 
 
 

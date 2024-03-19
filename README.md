@@ -4,7 +4,7 @@ Contributors :
 
 Kaan Topcu : ktopcu106@gmail.com 
 
-Nisa Aydın : nisaydin@gmail.com
+Nisa Aydın : nnisaydin@gmail.com
 
 If you want to test on your PC : 
 
